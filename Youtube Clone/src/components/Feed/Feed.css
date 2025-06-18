@@ -1,0 +1,10 @@
+ .feed{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(265px, 1fr));
+    row-gap: 1rem;
+    column-gap:3rem;
+   box-sizing: border-box;
+   word-wrap: wrap;
+  margin-top: 4rem;
+ }
+    

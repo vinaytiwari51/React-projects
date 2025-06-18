@@ -1,0 +1,22 @@
+.sidebar{
+    background-color:#fff;
+    width: 15%;
+    position: fixed;
+    top: 50px;
+    overflow: scroll;
+    scrollbar-color: #1c1c1d;
+    scrollbar-width: thin;  
+}
+
+
+.same:hover{
+    background-color: #f2f2f2;
+    cursor: pointer;
+}
+.active{
+    background-color: #e5e7eb;
+    border-bottom: red;
+}
+/* .container{
+    display: none;
+} */
