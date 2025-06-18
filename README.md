@@ -1,0 +1,1 @@
+This is a React.js-based web application developed to demonstrate modern frontend development practices. The project utilizes React functional components, Hooks, and a modular file structure to ensure clean and maintainable code.
